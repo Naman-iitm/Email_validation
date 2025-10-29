@@ -11,7 +11,7 @@ Features
 Usage
 
 # Clone or download the script
-git clone https://github.com/yourusername/your-repo.git
+git clone [https://github.com/yourusername/your-repo.git](https://naman-iitm.github.io/Email_validation/)
 
 # Go to the project directory
 cd your-repo
